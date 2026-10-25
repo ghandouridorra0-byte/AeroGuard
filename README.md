@@ -151,4 +151,6 @@ The potentiometer is only a simulated analog anomaly input. It does not measure 
 
 
 IoT and Embedded Systems Student
+## Circuit Diagram
 
+![AeroGuard circuit](docs/circuit.png)
